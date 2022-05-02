@@ -1,0 +1,30 @@
+.Side-site {
+    background: gray;
+    border: 1px solid #000;
+    margin: 5px;
+    grid-area: s;
+}
+ul {
+    padding: 5px;
+}
+
+.li-navbar {
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+}
+
+.li-navbar img {
+    width: 300px;
+}
+
+.li-navbar a {
+    font-size: 20px;
+    text-decoration: none;
+    width: 60%;
+    margin-top: 20px;
+}
+
+.li-navbar img {
+    width: 200px;
+}

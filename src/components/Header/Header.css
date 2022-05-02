@@ -1,0 +1,23 @@
+.Header-site {
+    border: 1px solid #000;
+    padding: 10px;
+    margin: 5px; 
+    grid-area: h;
+    display: flex;
+    justify-content: space-between;
+}
+button {
+    padding: 10px 20px;
+    border: none;
+    border-bottom: 1px solid #000;
+    margin-right: 10px;
+}
+button:hover {
+    padding: 12px 22px;
+    border: 1px solid #000;
+    margin-right: 10px;
+}
+span {
+    font-size: 30px;
+    font-weight: 900;
+}

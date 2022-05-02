@@ -1,0 +1,7 @@
+.Main-site {
+    background: gray;
+    border: 1px solid #000;
+    padding: 10px;
+    margin: 5px;
+    grid-area: m;
+}
